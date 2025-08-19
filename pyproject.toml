@@ -1,0 +1,20 @@
+[project]
+name = "ml-rsna"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "kaggle>=1.7.4.5",
+    "matplotlib>=3.10.5",
+    "numpy>=2.3.2",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.1",
+    "plotly>=6.3.0",
+    "pydicom>=3.0.1",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.48.1",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+]
